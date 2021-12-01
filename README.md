@@ -10,5 +10,5 @@ The Jupyter notebook contains codes of the homework with the output (as per prov
 
 Based on the homework output, here are the observations:
 a) Male players are taking the lead with 84% of players
-b) Most common players are in the age group of: 20 - 24 years old
+b) Most common players are in the age group of: 20 - 24 years old (about 45%)
 c) The two most popular items are also the most profitable items. They are: "Final Critic" (top 1) and "Oathbreaker, Last Hope of the Breaking Storm" (top 2)
