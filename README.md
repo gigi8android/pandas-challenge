@@ -14,7 +14,7 @@ Based on the output, here are the observations:
 * Dominant genders of the players are male with 84% of players. 
 * Male players are also too keen in buying games, their total purchased of 652 items with value of $1,1967. However the average purchase per person is lowest ($4.07) compares to other gender types.
 * The most common players are in the age group of: 20 - 24 years old (taking about 45% of the population).
-* The two most popular items are also the most profitable items. They are: "Final Critic" (top 1) and "Oathbreaker, Last Hope of the Breaking Storm" (top 2).
+* The two most popular items are also the most profitable items. They are: "Final Critic" (top 1 seller) and "Oathbreaker, Last Hope of the Breaking Storm" (top 2 seller).
 
 2. PyCity Schools:
 * Schools that have highest spending per student (i.e. over $645) are having the lowest scores in reading, writting and overall passing.
